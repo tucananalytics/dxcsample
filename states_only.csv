@@ -1,0 +1,53 @@
+State,StateID,ISO_Code
+alabama,0,al
+alaska,1,ak
+arizona,2,az
+arkansas,3,ar
+california,4,ca
+colorado,5,co
+connecticut,6,ct
+delaware,7,de
+district of columbia,8,dc
+florida,9,fl
+georgia,10,ga
+hawaii,11,hi
+idaho,12,id
+illinois,13,il
+indiana,14,in
+iowa,15,ia
+kansas,16,ks
+kentucky,17,ky
+louisiana,18,la
+maine,19,me
+maryland,20,md
+massachusetts,21,ma
+michigan,22,mi
+minnesota,23,mn
+mississippi,24,ms
+missouri,25,mo
+montana,26,mt
+nebraska,27,ne
+nevada,28,nv
+new hampshire,29,nh
+new jersey,30,nj
+new mexico,31,nm
+new york,32,ny
+north carolina,33,nc
+north dakota,34,nd
+ohio,35,oh
+oklahoma,36,ok
+oregon,37,or
+pennsylvania,38,pa
+puerto rico,39,pr
+rhode island,40,ri
+south carolina,41,sc
+south dakota,42,sd
+tennessee,43,tn
+texas,44,tx
+utah,45,ut
+vermont,46,vt
+virginia,47,va
+washington,48,wa
+west virginia,49,wv
+wisconsin,50,wi
+wyoming,51,wy
